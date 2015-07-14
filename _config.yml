@@ -116,7 +116,7 @@ disqus:
 #################################### global configure #######################################
 
 username: dominic0312
-baseurl: /StrayBirds
+baseurl: /cashlai
 markdown: redcarpet
 safe: false
 highlighter: pygments
