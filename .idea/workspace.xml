@@ -2,33 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="351917b3-8c42-4828-9010-04e99a809eac" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2015-07-11-ci.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2015-07-11-errorbit.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2015-07-12-ace.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2015-07-13-patch.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2015-07-14-queue.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2015-07-14-rules.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2015-07-15-maven.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2015-07-16-life.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2015-07-20-java-concurrency.md" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2014-09-20-java-concurrency.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-05-10-life.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/技术/2014/09/20/java-concurrency.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/生活/2015/05/10/life.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/README.md" afterPath="$PROJECT_DIR$/_site/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/navigations/archives.html" afterPath="$PROJECT_DIR$/_site/navigations/archives.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/themes/kunka/archives.html" afterPath="$PROJECT_DIR$/_site/themes/kunka/archives.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/navigations/categories.html" afterPath="$PROJECT_DIR$/_site/navigations/categories.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/themes/kunka/categories.html" afterPath="$PROJECT_DIR$/_site/themes/kunka/categories.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/navigations/contact.html" afterPath="$PROJECT_DIR$/_site/navigations/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/themes/kunka/contact.html" afterPath="$PROJECT_DIR$/_site/themes/kunka/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/navigations/index.html" afterPath="$PROJECT_DIR$/_site/navigations/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/themes/kunka/index.html" afterPath="$PROJECT_DIR$/_site/themes/kunka/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/navigations/links.html" afterPath="$PROJECT_DIR$/_site/navigations/links.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/themes/kunka/links.html" afterPath="$PROJECT_DIR$/_site/themes/kunka/links.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/time-machine.html" afterPath="$PROJECT_DIR$/_includes/time-machine.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-07-14-rules.md" afterPath="$PROJECT_DIR$/_posts/2015-07-14-rules.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/技术/2015/07/14/rules.html" afterPath="$PROJECT_DIR$/_site/技术/2015/07/14/rules.html" />
     </list>
     <ignored path="cashlai.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -70,11 +45,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2015-07-14-rules.md" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="2015-07-14-rules.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2015-07-14-rules.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="419" max-vertical-offset="1306">
-              <caret line="46" column="39" selection-start-line="46" selection-start-column="39" selection-end-line="46" selection-end-column="39" />
+            <state vertical-scroll-proportion="0.7044335" vertical-offset="569" max-vertical-offset="1381">
+              <caret line="57" column="37" selection-start-line="57" selection-start-column="37" selection-end-line="57" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -133,10 +108,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2015-07-11-ci.md" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="2015-07-11-ci.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2015-07-11-ci.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.25862068" vertical-offset="45" max-vertical-offset="586">
+            <state vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="586">
               <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
               <folding />
             </state>
@@ -171,13 +146,13 @@
         <option value="$PROJECT_DIR$/_posts/2014-09-20-java-concurrency.md" />
         <option value="$PROJECT_DIR$/_posts/2015-05-10-life.md" />
         <option value="$PROJECT_DIR$/_posts/2015-07-15-maven.md" />
-        <option value="$PROJECT_DIR$/_posts/2015-07-14-rules.md" />
         <option value="$PROJECT_DIR$/_posts/2015-07-14-queue.md" />
         <option value="$PROJECT_DIR$/_posts/2015-07-13-patch.md" />
         <option value="$PROJECT_DIR$/_posts/2015-07-12-ace.md" />
         <option value="$PROJECT_DIR$/_posts/2015-07-20-java-concurrency.md" />
         <option value="$PROJECT_DIR$/_posts/2015-07-11-errorbit.md" />
         <option value="$PROJECT_DIR$/_posts/2015-07-11-ci.md" />
+        <option value="$PROJECT_DIR$/_posts/2015-07-14-rules.md" />
       </list>
     </option>
   </component>
@@ -571,14 +546,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2015-07-14-rules.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="419" max-vertical-offset="1306">
-          <caret line="46" column="39" selection-start-line="46" selection-start-column="39" selection-end-line="46" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2015-07-14-queue.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="719" max-vertical-offset="1351">
@@ -624,8 +591,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2015-07-11-ci.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25862068" vertical-offset="45" max-vertical-offset="586">
+        <state vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="586">
           <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-07-14-rules.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7044335" vertical-offset="569" max-vertical-offset="1381">
+          <caret line="57" column="37" selection-start-line="57" selection-start-column="37" selection-end-line="57" selection-end-column="37" />
           <folding />
         </state>
       </provider>
