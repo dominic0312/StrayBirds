@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="351917b3-8c42-4828-9010-04e99a809eac" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-07-14-rules.md" afterPath="$PROJECT_DIR$/_posts/2015-07-14-rules.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/技术/2015/07/14/rules.html" afterPath="$PROJECT_DIR$/_site/技术/2015/07/14/rules.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2015-07-11-bbs.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-07-16-life.md" afterPath="$PROJECT_DIR$/_posts/2015-07-16-life.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="cashlai.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,8 +29,18 @@
       <file leaf-file-name="2015-07-16-life.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2015-07-16-life.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2964">
-              <caret line="163" column="14" selection-start-line="163" selection-start-column="14" selection-end-line="163" selection-end-column="14" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="1995" max-vertical-offset="2708">
+              <caret line="146" column="3" selection-start-line="146" selection-start-column="3" selection-end-line="146" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2015-07-11-bbs.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2015-07-11-bbs.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.7049608" vertical-offset="0" max-vertical-offset="653">
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -45,10 +56,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2015-07-14-rules.md" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="2015-07-14-rules.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2015-07-14-rules.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7044335" vertical-offset="569" max-vertical-offset="1381">
+            <state vertical-scroll-proportion="0.0" vertical-offset="569" max-vertical-offset="1381">
               <caret line="57" column="37" selection-start-line="57" selection-start-column="37" selection-end-line="57" selection-end-column="37" />
               <folding />
             </state>
@@ -118,16 +129,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="time-machine.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/time-machine.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.6" vertical-offset="0" max-vertical-offset="1386">
-              <caret line="2" column="67" selection-start-line="2" selection-start-column="63" selection-end-line="2" selection-end-column="67" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FindManager">
@@ -153,6 +154,8 @@
         <option value="$PROJECT_DIR$/_posts/2015-07-11-errorbit.md" />
         <option value="$PROJECT_DIR$/_posts/2015-07-11-ci.md" />
         <option value="$PROJECT_DIR$/_posts/2015-07-14-rules.md" />
+        <option value="$PROJECT_DIR$/_posts/2015-07-16-life.md" />
+        <option value="$PROJECT_DIR$/_posts/2015-07-11-bbs.md" />
       </list>
     </option>
   </component>
@@ -530,14 +533,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2015-07-16-life.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2241" max-vertical-offset="2964">
-          <caret line="163" column="14" selection-start-line="163" selection-start-column="14" selection-end-line="163" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2015-07-15-maven.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="699">
@@ -599,8 +594,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2015-07-14-rules.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7044335" vertical-offset="569" max-vertical-offset="1381">
+        <state vertical-scroll-proportion="0.0" vertical-offset="569" max-vertical-offset="1381">
           <caret line="57" column="37" selection-start-line="57" selection-start-column="37" selection-end-line="57" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-07-16-life.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1995" max-vertical-offset="2708">
+          <caret line="146" column="3" selection-start-line="146" selection-start-column="3" selection-end-line="146" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-07-11-bbs.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7049608" vertical-offset="0" max-vertical-offset="653">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>
